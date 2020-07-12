@@ -22,7 +22,7 @@ Graduado em Biomedicina pela Faculdade Santa Emília de Rodat (FASER, 2012), Dou
 ## Projetos:
 
 
-* **Curso de graudação em Bioinformática online e de graça:** http://bioinformaticabrasil.com.br/
+* **Curso de graudação em Bioinformática online e de graça:** https://bit.ly/2WbmiCG
 
 ---
 
